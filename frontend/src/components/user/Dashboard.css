@@ -1,0 +1,22 @@
+.home-container{
+
+    padding: 5rem;
+
+}
+
+.home-h1{
+    text-align: center;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.home-h2{
+    text-align: center;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+.pay-btn{
+    width: 5rem;
+    margin: 1rem;
+}
